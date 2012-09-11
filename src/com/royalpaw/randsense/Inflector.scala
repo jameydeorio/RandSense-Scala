@@ -1,10 +1,8 @@
 package com.royalpaw.randsense
 
-import javax.management.remote.rmi._RMIConnection_Stub
 import util.Random
 
 /**
- * Created with IntelliJ IDEA.
  * User: jamey
  * Date: 8/30/12
  * Time: 6:29 PM
@@ -30,6 +28,15 @@ object Inflector {
   val possibleSubjectsForVerb = IndexedSeq("noun", "nominative-pronoun")
   val possibleTenses = IndexedSeq("present", "simple_past")
 
+  /**
+   * High level entry point for an uninflected sentence, where its
+   * replacement nouns and verbs are returned as list to the sentence.
+   *
+   * @param baseSentence
+   * @param posSentence
+   * @param technicalSentence
+   * @return
+   */
   def inflect(baseSentence: List[String], posSentence: List[String], technicalSentence: List[xml.Node]): List[(String, Int)] = {
     val replacementNouns = inflectNouns(posSentence, technicalSentence)
     val replacementVerbs = inflectVerbs(posSentence, technicalSentence)
@@ -40,6 +47,7 @@ object Inflector {
   /**
    * The companion noun to each determiner in the
    * sentence is found and inflected if need be.
+   *
    * @param posSentence
    * @param technicalSentence
    * @return a list of tuple2 in the format of (inflected-noun, index for replacement)
@@ -61,6 +69,7 @@ object Inflector {
   /**
    * Pluralizes a noun according to its irregular plural rule
    * in the lexicon or by its base rule if no irregular exists.
+   *
    * @param oldNoun xml node of noun to pluralize
    * @return the pluralized noun as a string
    */
@@ -82,6 +91,14 @@ object Inflector {
     }
   }
 
+  /**
+   * Finds all verbs in the sentence and sends them
+   * to the conjugate method.
+   *
+   * @param posSentence
+   * @param technicalSentence
+   * @return
+   */
   private def inflectVerbs(posSentence: List[String], technicalSentence: List[xml.Node]): List[(String, Int)] = {
     val verbIndices = posSentence.zipWithIndex.map { pos =>
       if (pos._1.startsWith("verb")) pos._2 else -1
@@ -112,6 +129,7 @@ object Inflector {
   /**
    * More of a router than a conjugator, conjugateVerb sends the necessary
    * data to the real conjugators depending on tense and other variables.
+   *
    * @param subject xml node
    * @param verb xml node
    * @param isPlural is the determiner of the verb plural
@@ -130,6 +148,14 @@ object Inflector {
     }
   }
 
+  /**
+   * Conjugates a "be" verb.
+   *
+   * @param subject
+   * @param tense
+   * @param isPlural
+   * @return
+   */
   private def conjugateForBe(subject: xml.Node, tense: String, isPlural: Boolean): String = {
     if (isPlural) {
       be(tense)("plural")
@@ -141,6 +167,15 @@ object Inflector {
         be(tense)((subject \ "base").text)
   }
 
+  /**
+   * Conjugates a verb, depending on its determiner
+   * and subject, for the present tense.
+   *
+   * @param subject
+   * @param verb
+   * @param isPlural
+   * @return
+   */
   private def conjugateForPresent(subject: xml.Node, verb: xml.Node, isPlural: Boolean): String = {
     val verbBase = (verb \ "base").text
     if (isPlural)
@@ -160,6 +195,13 @@ object Inflector {
         verbBase
   }
 
+  /**
+   * Conjugates a verb, depending on its determiner
+   * and subject, for the simple past tense.
+   *
+   * @param verb
+   * @return
+   */
   private def conjugateForSimplePast(verb: xml.Node): String = {
     val verbBase = (verb \ "base").text
     if (!(verb \ "past").isEmpty)
@@ -175,6 +217,14 @@ object Inflector {
         verbBase + "ed"
   }
 
+  /**
+   * Inflects all words following an indefinite article
+   * (e.g., "an" apple, "a" cantaloupe
+   *
+   * @param posSentence
+   * @param pendingSentence
+   * @return
+   */
   private def inflectForArticles(posSentence: List[String], pendingSentence: List[String]) = {
     val indefiniteArticleIndices = posSentence.zipWithIndex.map { pos =>
       if (pos._1 == "indefinite-article") pos._2 else -1
@@ -197,6 +247,14 @@ object Inflector {
     }
   }
 
+  /**
+   * Puts the final touches on a sentence, like indefinite article/noun
+   * agreements and forming questions or statements.
+   *
+   * @param posSentence
+   * @param pendingSentence
+   * @return
+   */
   def finish(posSentence: List[String], pendingSentence: List[String]): String = {
     val sentence = inflectForArticles(posSentence, pendingSentence)
     if (sentence.contains("whose") || sentence.contains("whom"))
@@ -213,6 +271,15 @@ object Inflector {
    */
   private def reverseIndex(list: List[Any], index: Int): Int = list.size - (index + 1)
 
-  private def findNextPossibilityInList(possibilities: IndexedSeq[String], list: List[String], start: Int) =
+  /**
+   * Finds the next item in a list that matches any
+   * element in some list.
+   *
+   * @param possibilities
+   * @param list
+   * @param start
+   * @return
+   */
+  private def findNextPossibilityInList(possibilities: IndexedSeq[String], list: List[String], start: Int): Int =
     list.indexWhere(item => possibilities.contains(item), start)
 }

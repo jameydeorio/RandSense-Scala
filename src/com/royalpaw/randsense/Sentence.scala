@@ -3,7 +3,6 @@ package com.royalpaw.randsense
 import util.Random
 
 /**
- * Created with IntelliJ IDEA.
  * User: jamey
  * Date: 8/30/12
  * Time: 6:23 PM
@@ -55,6 +54,11 @@ class Sentence() {
     }
   }
 
+  /**
+   * Gets the necessary word replacements from the Inflector and
+   * plugs them into a new and now-finished sentence
+   * @return a fully realized sentence
+   */
   def makeSentence(): String = {
     val replacements = Inflector.inflect(_baseSentence, _posSentence, _technicalSentence)
     val pendingSentence = baseSentence.zipWithIndex.map{ case(word, index) =>
