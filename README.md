@@ -4,10 +4,10 @@
     |__|__|__,|_|_|___|_____|___|_|_|___|___|
 
 
-RandSense v 0.5
+RandSense-Scala v 0.5
 ===================
 
-RandSense is a random sentence generator. It uses a context-free grammar to construct grammatically correct yet often silly and nonsensical sentences.
+RandSense-Scala is the Scala version of RandSense, a random sentence generator. It uses a context-free grammar to construct grammatically correct yet often silly and nonsensical sentences.
 
 RandSense is built using the [SimpleNLG](http://code.google.com/p/simplenlg/) default lexicon, with some of my own modifications.
 
