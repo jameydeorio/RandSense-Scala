@@ -6,9 +6,12 @@ NP -> possessive-pronoun N | DETERMINER ADJ N | nominative-pronoun
 DObj -> possessive-pronoun N | DETERMINER N | pronoun
 N -> ADJ noun | noun
 
-# VP -> verb-intransitive | verb-transitive DObj | verb-ditransitive DObj DObj
-VP -> verb-intransitive | verb-transitive DObj | verb-linking DObj
+# VP -> verb-intransitive | verb-transitive DObj | verb-linking DObj | verb-ditransitive DObj DObj
+VP -> VERB | ADV VERB
+VERB -> verb-intransitive | verb-transitive DObj | verb-linking DObj
 
 DETERMINER -> determiner | indefinite-article
 
 ADJ -> ADJ adjective | adjective
+
+ADV -> ADV adverb | adverb

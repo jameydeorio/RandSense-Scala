@@ -45,9 +45,9 @@ class Sentence() {
    */
   private def makeTechnicalSentence(): List[xml.Node] = {
     _posSentence map { partOfSpeech =>
-      if (partOfSpeech.startsWith("verb"))
+      if (partOfSpeech.startsWith("verb-"))
         Lexicon.random(Map("category" -> "verb", partOfSpeech.substring(5) -> ""))
-      else if (partOfSpeech.startsWith("adverb"))
+      else if (partOfSpeech.startsWith("adverb-"))
         Lexicon.random(Map("category" -> "adverb", partOfSpeech.substring(7) -> ""))
       else
         Lexicon.random(Map("category" -> partOfSpeech))
