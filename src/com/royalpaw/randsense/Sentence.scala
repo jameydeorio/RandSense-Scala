@@ -98,7 +98,8 @@ class Sentence() {
    * @return
    */
   private def reduceChoices(choices: List[List[String]], weights: List[Double]): List[List[String]] = {
-    choices.zipWithIndex.filter{case(choice, index) => weights(index) > Random.nextDouble}
-      .map(_._1)
+    choices.zipWithIndex.filter{
+      case(choice, index) => weights(index) > Random.nextDouble
+    }.map(_._1)
   }
 }

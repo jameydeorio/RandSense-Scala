@@ -195,6 +195,8 @@ object Inflector {
             verbBase + "s"
           else if (verbBase(verbBase.size - 1) == 'y')
             verbBase.substring(0, verbBase.size - 1) + "ies"
+          else if (verbBase(verbBase.size - 1) == 'x')
+            verbBase + "es"
           else if (List("sh", "ch", "ss").contains(verbBase.substring(verbBase.size - 2)))
             verbBase + "es"
           else
