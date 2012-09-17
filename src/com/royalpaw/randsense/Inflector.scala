@@ -24,8 +24,14 @@ object Inflector {
   )
   val vowels = List("a", "e", "i", "o", "u")
 
-  val possibleDeterminersForVerb = IndexedSeq("determiner", "indefinite-article", "nominative-pronoun", "possessive-pronoun")
-  val possibleSubjectsForVerb = IndexedSeq("noun", "nominative-pronoun")
+  val possibleDeterminersForVerb = IndexedSeq(
+    "determiner",
+    "indefinite-article",
+    "nominative-pronoun",
+    "possessive-pronoun",
+    "proper-noun"
+  )
+  val possibleSubjectsForVerb = IndexedSeq("noun", "nominative-pronoun", "proper-noun")
   val possibleTenses = IndexedSeq("present", "simple_past")
 
   /**

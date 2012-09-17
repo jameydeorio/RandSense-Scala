@@ -64237,6 +64237,15 @@
 	</word>
 	<word>
 		<base>
+			Jamey
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<name/>
+	</word>
+	<word>
+		<base>
 			Jan
 		</base>
 		<category>
@@ -71383,7 +71392,7 @@
 	</word>
 	<word>
 		<base>
-			Barbuda
+			Antigua and Barbuda
 		</base>
 		<category>
 			proper-noun
@@ -71437,7 +71446,7 @@
 	</word>
 	<word>
 		<base>
-			The
+			The Bahamas
 		</base>
 		<category>
 			proper-noun
@@ -71527,7 +71536,7 @@
 	</word>
 	<word>
 		<base>
-			Herzegovina
+			Bosnia and Herzegovina
 		</base>
 		<category>
 			proper-noun
@@ -71581,7 +71590,7 @@
 	</word>
 	<word>
 		<base>
-			Faso
+			Burkina Faso
 		</base>
 		<category>
 			proper-noun
@@ -71626,7 +71635,7 @@
 	</word>
 	<word>
 		<base>
-			Verde
+			Cape Verde
 		</base>
 		<category>
 			proper-noun
@@ -71635,7 +71644,7 @@
 	</word>
 	<word>
 		<base>
-			Republic
+			Central African Republic
 		</base>
 		<category>
 			proper-noun
@@ -71689,7 +71698,7 @@
 	</word>
 	<word>
 		<base>
-			Rica
+			The Democratic Republic of the Congo
 		</base>
 		<category>
 			proper-noun
@@ -71698,7 +71707,16 @@
 	</word>
 	<word>
 		<base>
-			Ivoire
+			Costa Rica
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<place/>
+	</word>
+	<word>
+		<base>
+			Cote D'Ivoire
 		</base>
 		<category>
 			proper-noun
@@ -71734,7 +71752,7 @@
 	</word>
 	<word>
 		<base>
-			Republic
+			Czech Republic
 		</base>
 		<category>
 			proper-noun
@@ -71779,7 +71797,7 @@
 	</word>
 	<word>
 		<base>
-			Republic
+			Dominican Republic
 		</base>
 		<category>
 			proper-noun
@@ -71806,7 +71824,7 @@
 	</word>
 	<word>
 		<base>
-			Salvador
+			El Salvador
 		</base>
 		<category>
 			proper-noun
@@ -71824,7 +71842,7 @@
 	</word>
 	<word>
 		<base>
-			Guinea
+			Equatorial Guinea
 		</base>
 		<category>
 			proper-noun
@@ -71896,7 +71914,7 @@
 	</word>
 	<word>
 		<base>
-			The
+			The Gambia
 		</base>
 		<category>
 			proper-noun
@@ -71932,7 +71950,7 @@
 	</word>
 	<word>
 		<base>
-			Britain
+			Great Britain
 		</base>
 		<category>
 			proper-noun
@@ -72085,7 +72103,7 @@
 	</word>
 	<word>
 		<base>
-			Northern
+			Northern Ireland
 		</base>
 		<category>
 			proper-noun
@@ -72175,7 +72193,7 @@
 	</word>
 	<word>
 		<base>
-			North
+			North Korea
 		</base>
 		<category>
 			proper-noun
@@ -72184,7 +72202,7 @@
 	</word>
 	<word>
 		<base>
-			South
+			South Korea
 		</base>
 		<category>
 			proper-noun
@@ -72355,7 +72373,7 @@
 	</word>
 	<word>
 		<base>
-			Islands
+			Marshall Islands
 		</base>
 		<category>
 			proper-noun
@@ -72472,7 +72490,7 @@
 	</word>
 	<word>
 		<base>
-			The
+			The Netherlands
 		</base>
 		<category>
 			proper-noun
@@ -72481,7 +72499,7 @@
 	</word>
 	<word>
 		<base>
-			Zealand
+			New Zealand
 		</base>
 		<category>
 			proper-noun
@@ -72517,7 +72535,7 @@
 	</word>
 	<word>
 		<base>
-			Korea
+			North Korea
 		</base>
 		<category>
 			proper-noun
@@ -72535,7 +72553,7 @@
 	</word>
 	<word>
 		<base>
-			Ireland
+			Northern Ireland
 		</base>
 		<category>
 			proper-noun
@@ -72580,7 +72598,7 @@
 	</word>
 	<word>
 		<base>
-			Guinea
+			Papua New Guinea
 		</base>
 		<category>
 			proper-noun
@@ -72607,7 +72625,7 @@
 	</word>
 	<word>
 		<base>
-			The
+			The Philippines
 		</base>
 		<category>
 			proper-noun
@@ -72670,7 +72688,7 @@
 	</word>
 	<word>
 		<base>
-			Nevis
+			St. Kitts and Nevis
 		</base>
 		<category>
 			proper-noun
@@ -72679,7 +72697,7 @@
 	</word>
 	<word>
 		<base>
-			Lucia
+			St. Lucia
 		</base>
 		<category>
 			proper-noun
@@ -72688,7 +72706,7 @@
 	</word>
 	<word>
 		<base>
-			Grenadines
+			St. Vincent and the Grenadines
 		</base>
 		<category>
 			proper-noun
@@ -72706,7 +72724,7 @@
 	</word>
 	<word>
 		<base>
-			Marino
+			San Marino
 		</base>
 		<category>
 			proper-noun
@@ -72715,7 +72733,7 @@
 	</word>
 	<word>
 		<base>
-			Principe
+			Sao Tome and Principe
 		</base>
 		<category>
 			proper-noun
@@ -72724,7 +72742,7 @@
 	</word>
 	<word>
 		<base>
-			Arabia
+			Saudi Arabia
 		</base>
 		<category>
 			proper-noun
@@ -72760,7 +72778,7 @@
 	</word>
 	<word>
 		<base>
-			Leone
+			Sierra Leone
 		</base>
 		<category>
 			proper-noun
@@ -72796,7 +72814,7 @@
 	</word>
 	<word>
 		<base>
-			Islands
+			Solomon Islands
 		</base>
 		<category>
 			proper-noun
@@ -72814,7 +72832,7 @@
 	</word>
 	<word>
 		<base>
-			Africa
+			South Africa
 		</base>
 		<category>
 			proper-noun
@@ -72823,7 +72841,7 @@
 	</word>
 	<word>
 		<base>
-			Korea
+			South Korea
 		</base>
 		<category>
 			proper-noun
@@ -72841,7 +72859,7 @@
 	</word>
 	<word>
 		<base>
-			Lanka
+			Sri Lanka
 		</base>
 		<category>
 			proper-noun
@@ -72958,7 +72976,7 @@
 	</word>
 	<word>
 		<base>
-			Tobago
+			Trinidad and Tobago
 		</base>
 		<category>
 			proper-noun
@@ -73021,7 +73039,7 @@
 	</word>
 	<word>
 		<base>
-			Emirates
+			United Arab Emirates
 		</base>
 		<category>
 			proper-noun
@@ -73030,7 +73048,7 @@
 	</word>
 	<word>
 		<base>
-			Kingdom
+			United Kingdom
 		</base>
 		<category>
 			proper-noun
@@ -73039,7 +73057,7 @@
 	</word>
 	<word>
 		<base>
-			States
+			The United States
 		</base>
 		<category>
 			proper-noun
@@ -73075,7 +73093,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Vatican City
 		</base>
 		<category>
 			proper-noun
@@ -73399,7 +73417,7 @@
 	</word>
 	<word>
 		<base>
-			Hampshire
+			New Hampshire
 		</base>
 		<category>
 			proper-noun
@@ -73408,7 +73426,7 @@
 	</word>
 	<word>
 		<base>
-			Jersey
+			New Jersey
 		</base>
 		<category>
 			proper-noun
@@ -73417,7 +73435,7 @@
 	</word>
 	<word>
 		<base>
-			Mexico
+			New Mexico
 		</base>
 		<category>
 			proper-noun
@@ -73426,7 +73444,7 @@
 	</word>
 	<word>
 		<base>
-			York
+			New York
 		</base>
 		<category>
 			proper-noun
@@ -73435,7 +73453,7 @@
 	</word>
 	<word>
 		<base>
-			Carolina
+			North Carolina
 		</base>
 		<category>
 			proper-noun
@@ -73444,7 +73462,7 @@
 	</word>
 	<word>
 		<base>
-			Dakota
+			North Dakota
 		</base>
 		<category>
 			proper-noun
@@ -73489,7 +73507,7 @@
 	</word>
 	<word>
 		<base>
-			Island
+			Rhode Island
 		</base>
 		<category>
 			proper-noun
@@ -73498,7 +73516,7 @@
 	</word>
 	<word>
 		<base>
-			Carolina
+			South Carolina
 		</base>
 		<category>
 			proper-noun
@@ -73507,7 +73525,7 @@
 	</word>
 	<word>
 		<base>
-			Dakota
+			South Dakota
 		</base>
 		<category>
 			proper-noun
@@ -73570,7 +73588,7 @@
 	</word>
 	<word>
 		<base>
-			Virginia
+			West Virginia
 		</base>
 		<category>
 			proper-noun
@@ -73642,7 +73660,7 @@
 	</word>
 	<word>
 		<base>
-			Rouge
+			Baton Rouge
 		</base>
 		<category>
 			proper-noun
@@ -73678,7 +73696,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Carson City
 		</base>
 		<category>
 			proper-noun
@@ -73750,7 +73768,7 @@
 	</word>
 	<word>
 		<base>
-			Moines
+			Des Moines
 		</base>
 		<category>
 			proper-noun
@@ -73831,7 +73849,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Jefferson City
 		</base>
 		<category>
 			proper-noun
@@ -73867,7 +73885,7 @@
 	</word>
 	<word>
 		<base>
-			Rock
+			Little Rock
 		</base>
 		<category>
 			proper-noun
@@ -73921,7 +73939,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Oklahoma City
 		</base>
 		<category>
 			proper-noun
@@ -74002,7 +74020,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Salt Lake City
 		</base>
 		<category>
 			proper-noun
@@ -74011,7 +74029,7 @@
 	</word>
 	<word>
 		<base>
-			Fe
+			Santa Fe
 		</base>
 		<category>
 			proper-noun
@@ -74029,7 +74047,7 @@
 	</word>
 	<word>
 		<base>
-			Paul
+			St. Paul
 		</base>
 		<category>
 			proper-noun
@@ -74065,34 +74083,7 @@
 	</word>
 	<word>
 		<base>
-			States
-		</base>
-		<category>
-			proper-noun
-		</category>
-		<place/>
-	</word>
-	<word>
-		<base>
-			Language
-		</base>
-		<category>
-			proper-noun
-		</category>
-		<place/>
-	</word>
-	<word>
-		<base>
-			Language
-		</base>
-		<category>
-			proper-noun
-		</category>
-		<place/>
-	</word>
-	<word>
-		<base>
-			Dhabi
+			Abu Dhabi
 		</base>
 		<category>
 			proper-noun
@@ -74119,7 +74110,7 @@
 	</word>
 	<word>
 		<base>
-			Ababa
+			Addis Ababa
 		</base>
 		<category>
 			proper-noun
@@ -74146,7 +74137,7 @@
 	</word>
 	<word>
 		<base>
-			Vella
+			Andorra la Vella
 		</base>
 		<category>
 			proper-noun
@@ -74245,7 +74236,7 @@
 	</word>
 	<word>
 		<base>
-			Begawan
+			Bandar Seri Begawan
 		</base>
 		<category>
 			proper-noun
@@ -74425,7 +74416,7 @@
 	</word>
 	<word>
 		<base>
-			Aires
+			Buenos Aires
 		</base>
 		<category>
 			proper-noun
@@ -74596,7 +74587,7 @@
 	</word>
 	<word>
 		<base>
-			Atoll
+			Funafuti Atoll
 		</base>
 		<category>
 			proper-noun
@@ -74623,7 +74614,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Guatemala City
 		</base>
 		<category>
 			proper-noun
@@ -74785,7 +74776,7 @@
 	</word>
 	<word>
 		<base>
-			Lumpur
+			Kuala Lumpur
 		</base>
 		<category>
 			proper-noun
@@ -74794,7 +74785,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Kuwait City
 		</base>
 		<category>
 			proper-noun
@@ -74974,7 +74965,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Mexico City
 		</base>
 		<category>
 			proper-noun
@@ -75055,7 +75046,7 @@
 	</word>
 	<word>
 		<base>
-			Djamena
+			N'Djamena
 		</base>
 		<category>
 			proper-noun
@@ -75064,7 +75055,7 @@
 	</word>
 	<word>
 		<base>
-			Delhi
+			New Delhi
 		</base>
 		<category>
 			proper-noun
@@ -75092,6 +75083,15 @@
 	<word>
 		<base>
 			Nouakchott
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<place/>
+	</word>
+	<word>
+		<base>
+			Nuku'alofa
 		</base>
 		<category>
 			proper-noun
@@ -75136,7 +75136,7 @@
 	</word>
 	<word>
 		<base>
-			City
+			Panama City
 		</base>
 		<category>
 			proper-noun
@@ -75163,7 +75163,7 @@
 	</word>
 	<word>
 		<base>
-			Penh
+			Phnom Penh
 		</base>
 		<category>
 			proper-noun
@@ -75172,7 +75172,7 @@
 	</word>
 	<word>
 		<base>
-			Louis
+			Port Louis
 		</base>
 		<category>
 			proper-noun
@@ -75181,7 +75181,7 @@
 	</word>
 	<word>
 		<base>
-			Moresby
+			Port Moresby
 		</base>
 		<category>
 			proper-noun
@@ -75307,7 +75307,7 @@
 	</word>
 	<word>
 		<base>
-			Jose
+			Saint George's
 		</base>
 		<category>
 			proper-noun
@@ -75316,7 +75316,7 @@
 	</word>
 	<word>
 		<base>
-			Marino
+			San Jose
 		</base>
 		<category>
 			proper-noun
@@ -75325,7 +75325,16 @@
 	</word>
 	<word>
 		<base>
-			Salvador
+			San Marino
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<place/>
+	</word>
+	<word>
+		<base>
+			San Salvador
 		</base>
 		<category>
 			proper-noun
@@ -75343,7 +75352,7 @@
 	</word>
 	<word>
 		<base>
-			Domingo
+			Santo Domingo
 		</base>
 		<category>
 			proper-noun
@@ -75352,7 +75361,7 @@
 	</word>
 	<word>
 		<base>
-			Tome
+			Sao Tome
 		</base>
 		<category>
 			proper-noun
@@ -75398,6 +75407,15 @@
 	<word>
 		<base>
 			Sofia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<place/>
+	</word>
+	<word>
+		<base>
+			St. John's
 		</base>
 		<category>
 			proper-noun
@@ -75613,7 +75631,7 @@
 	</word>
 	<word>
 		<base>
-			Washington
+			Washington, DC
 		</base>
 		<category>
 			proper-noun
@@ -75664,5 +75682,3114 @@
 			proper-noun
 		</category>
 		<place/>
+	</word>
+	<word>
+		<base>
+			Abbas I of Persia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Shah of Iran
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Akbar
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Mughal Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Alain I of Albret
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Alexander the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Alexander I of Georgia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Alfred the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Wessex
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Antiochus III the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Seleucid Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ashoka the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Maurya dynasty
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ashot I of Iberia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Caucasian Iberia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Askia Mohammad I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Songhai Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Bayinnaung
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Taungoo Dynasty
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Bhumibol Adulyadej
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Bruno the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Buddha Yodfa Chulaloke
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Rattanakosin Kingdom
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Cnut the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Casimir III the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Catherine the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Chandragupta II
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Gupta empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Charlemagne
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Franks
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+		<plural/>
+	</word>
+	<word>
+		<base>
+			the Holy Roman Emperor
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Chulalongkorn
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Rattanakosin Kingdom
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Chlothar II
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Neustria
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Conrad, Margrave of Meissen
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Margrave of Meissen
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Constantine I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Cyaxares the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Medes
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Cyrus the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Achaemenid Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Darius the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Devapala
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Pala Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Indian subcontinent
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Dionysius I of Syracuse
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Frederick the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Genghis Khan
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mongol Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Gero
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Gustavus Adolphus of Sweden
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Swedish Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Gwanggaeto the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Goguryeo
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Three Kingdoms of Korea
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Hanno the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Carthage
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Henry I, Duke of Burgundy
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Henry IV of France
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Herod the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Hugh the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Hugh Magnus of France
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Hugh I, Count of Vermandois
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Humphrey I de Bohun
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ivan III of Russia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			John I of Portugal
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			John II of Aragon
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Justinian I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kamehameha I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kanishka
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Kushan Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kvirike III of Kakheti
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kakheti
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kublai Khan
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mongol
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Yuan Dynasty
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Llywelyn the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Kingdom of Gwynedd
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Louis I of Hungary
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mangrai the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Lanna
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Emperor Meiji
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mircea I of Wallachia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mithridates II of Parthia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Parthian Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mithridates VI of Pontus
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Pontus
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Bosporan Kingdom
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mstislav I of Kiev
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kievan Rus
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Naresuan
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Narai
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Ayutthaya Kingdom
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Odo the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Otto I, Holy Roman Emperor
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			K'inich Janaab' Pakal
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Palenque
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Parakramabahu I of Polonnaruwa
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Sri Lanka
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Peter the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Peter III of Aragon
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Pompey
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Radama I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Raja Raja Chola I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Tamil Nadu
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Rajendra Chola I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ramesses II
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ram Khamhaeng
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Sukhothai Kingdom
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ramon Berenguer III, Count of Barcelona
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Rhodri the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Kingdom of Gwynedd
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Roman the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Grand Prince of Kiev
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Saladin
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Kurds
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+		<plural/>
+	</word>
+	<word>
+		<base>
+			the Ayyubid dynasty
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Samudragupta
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Gupta empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Sancho III of Navarre
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kingdom of Navarre
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Sargon of Akkad
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Akkadian Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Sejong the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Shapur II
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Sassanid Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Simeon I of Bulgaria
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the First Bulgarian Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Stephen III of Moldavia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Principality of Moldavia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Taksin
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Thonburi Kingdom
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Tamar of Georgia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Kingdom of Georgia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Timur
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Timurid Dynasty
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Theobald II, Count of Champagne
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Theodoric the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Ostrogoths
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+		<plural/>
+	</word>
+	<word>
+		<base>
+			the Visigoths
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+		<plural/>
+	</word>
+	<word>
+		<base>
+			the Byzantine Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Theodosius I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Roman emperor
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Tigranes the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Tiridates III of Armenia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Umar
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Valdemar I of Denmark
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Valentinian I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Vladimir I of Kiev
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Kievan Rus
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Vytautas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Lithuanian Grand Duchy
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			William I, Count of Burgundy
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			William V, Duke of Aquitaine
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Xerxes I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Achaemenid Empire
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Yu the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ancient China
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Abraham the Great of Kashkar
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Abraham Kidunaia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Albertus Magnus
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Anthony the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Babai the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Basil of Caesarea
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Bruno the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Euthymius the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Gertrude the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Pope Gregory I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Hiyya the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Pope John Paul II
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Pope Leo I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Macarius of Egypt
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Pope Nicholas I
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Photius I of Constantinople
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Eastern Orthodox
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Patriarch of Constantinople
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			William of Maleval
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Beli Mawr
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Matteo Rosso the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Prokop the Great
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Hussite
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Bohemia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Epithet
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			James, son of Zebedee
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mohandas Karamchand Gandhi
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Mahatma
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			the Great Soul
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			Ajax
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<person/>
+	</word>
+	<word>
+		<base>
+			King Bael
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Agares
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Prince Vassago
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Samigina
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Marbas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Valefor
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Amon
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Barbatos
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			King Paimon
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Buer
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Gusion
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Prince Sitri
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			King Beleth
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Leraje
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Eligos
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Zepar
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Botis
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Bathin
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Sallos
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			King Purson
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Marax
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Prince Ipos
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Aim
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Naberius
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Glasya-Labolas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Buné
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Ronové
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Berith
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Astaroth
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Forneus
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Foras
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			King Asmoday
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Prince Gäap
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Furfur
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Marchosias
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Prince Stolas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Phenex
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Halphas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Malphas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Räum
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Focalor
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Vepar
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Sabnock
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Shax
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Viné
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Bifrons
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Vual
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Haagenti
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Crocell
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Knight Furcas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			King Balam
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Alloces
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Caim
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Murmur
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Prince Orobas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Gremory
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Ose
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Amy
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Orias
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Vapula
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Zagan
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			President Valac
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Andras
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Haures
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Andrealphus
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Cimeies
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Amdusias
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			King Belial
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marquis Decarabia
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Prince Seere
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Duke Dantalion
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Count Andromalius
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Abraham Lincoln
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Alexander Graham Bell
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Alexander Hamilton
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Amelia Earhart
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Andrew Carnegie
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Babe Ruth
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Benjamin Franklin
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Bill Gates
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Carl Sagan
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Charles Lindbergh
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Chuck Yeager
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Dwight D. Eisenhower
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Eleanor Roosevelt
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Elvis Presley
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Frank Sinatra
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Franklin D. Roosevelt
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Frederick Douglass
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			George Patton
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			George Washington
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			George Washington Carver
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Henry Ford
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Jackie Robinson
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Jesse Owens
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			John F. Kennedy
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Jonas Edward Salk
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Malcolm X
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Mark Twain
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Samuel Clemens
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Martin Luther King, Jr.
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Michael Jordan
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Muhammad Ali
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Ray Charles
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Ronald Reagan
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Rosa Parks
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Sam Walton
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Steve Jobs
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Steven Spielberg
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Susan B. Anthony
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Theodore Roosevelt
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Thomas Edison
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Thomas Jefferson
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Albert Einstein
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Arnold Schwarzenegger
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Cesar Chavez
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Nikola Tesla
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Barack Obama
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Barbara Bush
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Bill Clinton
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Bill Cosby
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Billy Graham
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Bob Hope
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Brett Favre
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Christopher Reeve
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Clint Eastwood
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Colin Powell
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Condoleezza Rice
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Donald Trump
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Ellen DeGeneres
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			George H. W. Bush
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			George W. Bush
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			George Lucas
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Hillary Rodham Clinton
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Howard Hughes
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Hugh Hefner
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Jacqueline Kennedy Onassis
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Jimmy Stewart
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			John Edwards
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			John Wayne
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Johnny Carson
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Laura Bush
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Madonna
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Marilyn Monroe
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Martha Stewart
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Mel Gibson
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Michael Jackson
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Michael Moore
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Oprah Winfrey
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Pat Tillman
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Dr. Phil McGraw
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Rudolph W. Giuliani
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Rush Limbaugh
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Tiger Woods
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Tom Cruise
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
+	</word>
+	<word>
+		<base>
+			Tom Hanks
+		</base>
+		<category>
+			proper-noun
+		</category>
+		<demon/>
 	</word>
 </lexicon>
