@@ -12,8 +12,8 @@ S-MOD -> adverb_sentence-modifier
 
 LIST -> SIMPLE-LIST | COMPLEX-LIST
 SIMPLE-LIST -> TWO-LIST | SERIAL-LIST
-TWO-LIST -> N conjunction_and N
-SERIAL-LIST -> N comma SERIAL-LIST | N comma N comma conjunction_and N
+TWO-LIST -> NP conjunction_and NP
+SERIAL-LIST -> NP comma SERIAL-LIST | NP comma NP comma conjunction_and NP
 COMPLEX-LIST -> NP semicolon COMPLEX-LIST | NP semicolon NP semicolon conjunction_and NP
 # in the future, we should set some kind of meta data about lists while
 # creating the sentence diagrams, so we can inflect for plurals on them
