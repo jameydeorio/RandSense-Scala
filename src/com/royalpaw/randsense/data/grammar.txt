@@ -1,17 +1,26 @@
-S -> NP VP | BEG NP VP | NP VP BEG | BEG NP VP BEG
+S -> IND-CLAUSE 1.0 | S comma conjunction_coordinating S 0.5 | S semicolon adverb_sentence-modifier comma S 0.2 | IND-CLAUSE colon LIST 0.2
 
-BEG -> adverb-sentence_modifier
+IND-CLAUSE -> NP VP | S-MOD comma NP VP 0.4 | NP VP comma S-MOD 0.4 | S-MOD comma NP VP comma S-MOD 0.2
 
 NP -> possessive-pronoun N | DETERMINER ADJ N | nominative-pronoun
 DObj -> possessive-pronoun N | DETERMINER N | pronoun
 N -> ADJ noun | noun
 
-# VP -> verb-intransitive | verb-transitive DObj | verb-linking DObj | verb-ditransitive DObj DObj
-VP -> VERB | ADV VERB
-VERB -> verb-intransitive | verb-transitive DObj | verb-linking DObj
+VP -> verb_intransitive | verb_transitive DObj | verb_linking DObj
+
+S-MOD -> adverb_sentence-modifier
+
+LIST -> SIMPLE-LIST | COMPLEX-LIST
+SIMPLE-LIST -> TWO-LIST | SERIAL-LIST
+TWO-LIST -> N conjunction_and N
+SERIAL-LIST -> N comma SERIAL-LIST | N comma N comma conjunction_and N
+COMPLEX-LIST -> NP semicolon COMPLEX-LIST | NP semicolon NP semicolon conjunction_and NP
+# in the future, we should set some kind of meta data about lists while
+# creating the sentence diagrams, so we can inflect for plurals on them
 
 DETERMINER -> determiner | indefinite-article
 
 ADJ -> ADJ adjective | adjective
 
-ADV -> ADV adverb | adverb
+#ADV -> ADV adverb | adverb
+

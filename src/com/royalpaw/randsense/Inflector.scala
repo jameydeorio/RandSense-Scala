@@ -185,7 +185,9 @@ object Inflector {
         if (!(verb \ "present3s").isEmpty)
           (verb \ "present3s").text
         else
-          if (verbBase(verbBase.size - 1) == 'y')
+          if (List("ey", "ay", "oy").contains(verbBase.substring(verbBase.size - 2)))
+            verbBase + "s"
+          else if (verbBase(verbBase.size - 1) == 'y')
             verbBase.substring(0, verbBase.size - 1) + "ies"
           else if (List("sh", "ch", "ss").contains(verbBase.substring(verbBase.size - 2)))
             verbBase + "es"
@@ -257,10 +259,15 @@ object Inflector {
    */
   def finish(posSentence: List[String], pendingSentence: List[String]): String = {
     val sentence = inflectForArticles(posSentence, pendingSentence)
+      .mkString(" ").replaceAll("i ", "I ")
+        .replaceAll(" ,", ",")
+        .replaceAll(" ;", ";")
+        .replaceAll(" :", ":")
+          .capitalize
     if (sentence.contains("whose") || sentence.contains("whom"))
-      sentence.mkString(" ").replaceAll("i ", "I ").capitalize + "?"
+      sentence + "?"
     else
-      sentence.mkString(" ").replaceAll("i ", "I ").capitalize + "."
+      sentence + "."
   }
 
   /**

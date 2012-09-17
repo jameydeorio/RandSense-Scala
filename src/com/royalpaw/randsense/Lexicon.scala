@@ -14,8 +14,8 @@ import javax.management.remote.rmi._RMIConnection_Stub
  */
 object Lexicon {
   private val xmlTree = xml.XML.loadString(
-    removeTabsAndNewlinesFromSource(
-      io.Source.fromFile(Constants.LEXICON_LOCATION)
+    removeSpecialCharsFromSource(
+      io.Source.fromFile("src/com/royalpaw/randsense/data/lexicon.xml")
     )
   )
   private val words = xmlTree \ "word"
@@ -43,12 +43,12 @@ object Lexicon {
   }
 
   /**
-   * Removes tab and newline characters from a scala Source object. This allows
+   * Removes tabs and newline characters from a scala Source object. This allows
    * us to use a pretty-format XML file for the lexicon.
    * @param source
    * @return
    */
-  private def removeTabsAndNewlinesFromSource(source: BufferedSource) = source.toList.filterNot(
+  private def removeSpecialCharsFromSource(source: BufferedSource) = source.toList.filterNot(
     List('\n', '\t').contains(_)
   ).mkString
 }
